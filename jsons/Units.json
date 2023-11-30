@@ -494,7 +494,6 @@
 		"name": "Друид Медведь",
 		"unitType": "Sword",
 		"uniqueTo": "Ночные Эльфы",
-		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 15,
 		"cost": 100,
