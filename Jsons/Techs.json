@@ -1,0 +1,45 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Стадия I",
+		"techCost": 80,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Первый уровень",
+				"row": 6,
+				"uniques": ["Starting tech"]
+				}
+				]
+				},
+				{
+		"columnNumber": 1,
+		"era": "Стадия II",
+		"techCost": 160,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Второй уровень",
+				"row": 6,
+				"prerequisites": ["Первый уровень"]
+				}
+				]
+				},
+				{
+		"columnNumber": 2,
+		"era": "Стадия III",
+		"techCost": 360,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Третий уровень",
+				"row": 6,
+				"prerequisites": ["Второй уровень"]
+				}
+				]
+				}
+				]
+				
