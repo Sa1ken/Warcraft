@@ -504,7 +504,6 @@
 		"name": "Горный Гигант",
 		"unitType": "Sword",
 		"uniqueTo": "Ночные Эльфы",
-		"replaces": "Warrior",
 		"movement": 1,
 		"strength": 17,
 		"cost": 150,
