@@ -4,1459 +4,837 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-CityStateIcons/Cultured
+BuildingIcons/Altar_of_Elders
   rotate: false
-  xy: 127, 1219
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-CityStateIcons/Maritime
+BuildingIcons/Altar_of_Kings
   rotate: false
-  xy: 1939, 1823
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-CityStateIcons/Mercantile
+BuildingIcons/Altar_of_darkness
   rotate: false
-  xy: 535, 1577
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-CityStateIcons/Militaristic
+BuildingIcons/Altarofstorms
   rotate: false
-  xy: 643, 1592
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-CityStateIcons/Religious
+BuildingIcons/Ancient_of_lore
   rotate: false
-  xy: 1723, 1499
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-EmojiIcons/Automate
-  rotate: false
-  xy: 436, 432
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Culture
-  rotate: false
-  xy: 436, 258
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Death
-  rotate: false
-  xy: 436, 200
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Faith
-  rotate: false
-  xy: 436, 142
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Food
-  rotate: false
-  xy: 436, 84
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Gold
-  rotate: false
-  xy: 494, 432
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Great Artist
-  rotate: false
-  xy: 494, 374
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Great Engineer
-  rotate: false
-  xy: 494, 316
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Great General
-  rotate: false
-  xy: 494, 258
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Great Merchant
-  rotate: false
-  xy: 494, 200
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Great Scientist
-  rotate: false
-  xy: 494, 142
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Happiness
-  rotate: false
-  xy: 494, 84
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Production
-  rotate: false
-  xy: 544, 1087
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Science
-  rotate: false
-  xy: 544, 913
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-EmojiIcons/Turn
-  rotate: false
-  xy: 544, 797
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Academy
-  rotate: false
-  xy: 736, 1931
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Ancient ruins
-  rotate: false
-  xy: 952, 1931
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Barbarian encampment
-  rotate: false
-  xy: 4, 693
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Camp
-  rotate: false
-  xy: 1276, 1931
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Cancel improvement order
-  rotate: false
-  xy: 4, 477
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/Stop
-  rotate: false
-  xy: 4, 477
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Citadel
-  rotate: false
-  xy: 1492, 1931
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/City center
-  rotate: false
-  xy: 4, 153
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/City ruins
-  rotate: false
-  xy: 1708, 1931
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Customs house
-  rotate: false
-  xy: 119, 1111
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Farm
-  rotate: false
-  xy: 535, 1793
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Fishing Boats
-  rotate: false
-  xy: 643, 1808
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Fort
-  rotate: false
-  xy: 751, 1823
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Holy site
-  rotate: false
-  xy: 1075, 1823
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Landmark
-  rotate: false
-  xy: 1399, 1715
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Lumber mill
-  rotate: false
-  xy: 1615, 1715
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Manufactory
-  rotate: false
-  xy: 1723, 1715
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Mine
-  rotate: false
-  xy: 751, 1607
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Moai
-  rotate: false
-  xy: 859, 1607
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Offshore Platform
-  rotate: false
-  xy: 1615, 1607
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Oil well
-  rotate: false
-  xy: 1831, 1607
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Pasture
-  rotate: false
-  xy: 412, 1529
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Plantation
-  rotate: false
-  xy: 514, 1145
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Polder
-  rotate: false
-  xy: 643, 1484
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Quarry
-  rotate: false
-  xy: 1183, 1499
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Railroad
-  rotate: false
-  xy: 1615, 1499
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Remove Fallout
-  rotate: false
-  xy: 1939, 1499
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Remove Forest
-  rotate: false
-  xy: 751, 1391
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Remove Jungle
-  rotate: false
-  xy: 751, 1391
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Remove Marsh
-  rotate: false
-  xy: 967, 1392
-  size: 100, 99
-  orig: 100, 99
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Remove Railroad
-  rotate: false
-  xy: 1075, 1391
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Remove Road
-  rotate: false
-  xy: 1183, 1391
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Repair
-  rotate: false
-  xy: 1291, 1391
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Road
-  rotate: false
-  xy: 1615, 1391
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Terrace farm
-  rotate: false
-  xy: 328, 671
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Trading post
-  rotate: false
-  xy: 328, 455
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NotificationIcons/EnhanceReligion
-  rotate: false
-  xy: 112, 139
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NotificationIcons/FoundPantheon
-  rotate: false
-  xy: 112, 139
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NotificationIcons/FoundReligion
-  rotate: false
-  xy: 112, 139
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NotificationIcons/ReformReligion
-  rotate: false
-  xy: 112, 139
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-StatIcons/Faith
-  rotate: false
-  xy: 112, 139
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NotificationIcons/Loading
-  rotate: false
-  xy: 1507, 1715
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NotificationIcons/Working
-  rotate: false
-  xy: 1507, 1715
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/Loading
-  rotate: false
-  xy: 1507, 1715
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NotificationIcons/PickConstruction
-  rotate: false
-  xy: 520, 1469
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-StatIcons/Production
-  rotate: false
-  xy: 520, 1469
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NotificationIcons/PickPolicy
+BuildingIcons/Ancient_of_war
   rotate: false
   xy: 4, 4
-  size: 33, 33
-  orig: 33, 33
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-NotificationIcons/PickTech
+BuildingIcons/Ancient_of_wind
   rotate: false
-  xy: 514, 1361
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-StatIcons/Science
-  rotate: false
-  xy: 514, 1361
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/AirSweep
-  rotate: false
-  xy: 844, 1931
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/Aircraft
-  rotate: false
-  xy: 235, 1269
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-OtherIcons/ArrowRight
-  rotate: false
-  xy: 443, 1147
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-NotificationIcons/MoveAutomatedUnits
-  rotate: false
-  xy: 443, 1147
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-NotificationIcons/NextUnit
-  rotate: false
-  xy: 443, 1147
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-StatIcons/Movement
-  rotate: false
-  xy: 443, 1147
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-OtherIcons/BackArrow
-  rotate: false
-  xy: 436, 374
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-OtherIcons/Banner
-  rotate: false
-  xy: 1060, 1931
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitTypeIcons/UnitTypes
-  rotate: false
-  xy: 1060, 1931
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/Blockade
-  rotate: false
-  xy: 289, 1715
-  size: 130, 130
-  orig: 130, 130
-  offset: 0, 0
-  index: -1
-OtherIcons/Camera
-  rotate: false
-  xy: 475, 1868
-  size: 25, 25
-  orig: 25, 25
-  offset: 0, 0
-  index: -1
-OtherIcons/Capital
-  rotate: false
-  xy: 4, 1125
-  size: 107, 101
-  orig: 107, 101
-  offset: 0, 0
-  index: -1
-OtherIcons/Checkmark
-  rotate: false
-  xy: 4, 369
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NotificationIcons/NextTurn
-  rotate: false
-  xy: 4, 369
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/Circle
-  rotate: false
-  xy: 289, 1853
-  size: 178, 178
-  orig: 178, 178
-  offset: 0, 0
-  index: -1
-OtherIcons/Cities
-  rotate: false
-  xy: 4, 261
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/CityState
-  rotate: false
-  xy: 436, 316
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-OtherIcons/CityStatus
-  rotate: false
-  xy: 1816, 1931
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Close
+BuildingIcons/Ancient_of_wonder
   rotate: false
-  xy: 1924, 1931
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/CrosshairB
-  rotate: false
-  xy: 298, 1268
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/Diplomacy
-  rotate: false
-  xy: 112, 895
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/DiplomacyW
-  rotate: false
-  xy: 112, 787
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/DisbandUnit
-  rotate: false
-  xy: 112, 679
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/ExclamationMark
-  rotate: false
-  xy: 112, 31
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/Fire
-  rotate: false
-  xy: 4, 1234
-  size: 115, 115
-  orig: 115, 115
-  offset: 0, 0
-  index: -1
-OtherIcons/ForwardArrow
-  rotate: false
-  xy: 436, 26
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-OtherIcons/Hexagon
-  rotate: false
-  xy: 4, 1791
-  size: 277, 240
-  orig: 277, 240
-  offset: 0, 0
-  index: -1
-OtherIcons/HexagonOutline
-  rotate: false
-  xy: 4, 1543
-  size: 277, 240
-  orig: 277, 240
-  offset: 0, 0
-  index: -1
-OtherIcons/Improvements
-  rotate: false
-  xy: 494, 26
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-OtherIcons/Keyboard
-  rotate: false
-  xy: 1399, 1823
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Link
+BuildingIcons/Ancientprotector_rooted
   rotate: false
-  xy: 552, 447
-  size: 50, 50
-  orig: 50, 50
+  xy: 1528, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Load
+BuildingIcons/Arcane_Sanctum
   rotate: false
-  xy: 1507, 1823
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-OtherIcons/LockSmall
-  rotate: false
-  xy: 552, 389
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-OtherIcons/MapEditor
-  rotate: false
-  xy: 1831, 1823
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/MenuIcon
+BuildingIcons/Arcane_Tower
   rotate: false
-  xy: 1939, 1715
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Mods
+BuildingIcons/Arcane_Vault
   rotate: false
-  xy: 967, 1607
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Multiplayer
+LeaderIcons/Arthas Menethil
   rotate: false
-  xy: 1075, 1607
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/NationSwap
+UnitIcons/Abomination
   rotate: false
-  xy: 1183, 1607
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Nations
+UnitIcons/Archer
   rotate: false
-  xy: 552, 99
-  size: 50, 50
-  orig: 50, 50
+  xy: 1020, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/New
+UnitIcons/Banshee
   rotate: false
-  xy: 1291, 1607
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Notifications
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Barracks
   rotate: false
-  xy: 1507, 1607
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Options
+BuildingIcons/Beastiary
   rotate: false
-  xy: 1939, 1607
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Pause
+BuildingIcons/Black_Citadel
   rotate: false
-  xy: 552, 41
-  size: 50, 50
-  orig: 50, 50
+  xy: 512, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Pencil
+BuildingIcons/Boneyard
   rotate: false
-  xy: 406, 1313
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Pentagon
+BuildingIcons/Cannon_Tower
   rotate: false
-  xy: 406, 1205
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Pillage
+BuildingIcons/Castle-red
   rotate: false
-  xy: 514, 1253
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Politics
+BuildingIcons/Chimaera_Roost
   rotate: false
-  xy: 751, 1499
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-NotificationIcons/WorldCongressVote
+BuildingIcons/Crypt
   rotate: false
-  xy: 751, 1499
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Present
+UnitIcons/Blademaster
   rotate: false
-  xy: 1075, 1499
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Puppet
+UnitIcons/Chimaera
   rotate: false
-  xy: 289, 1592
-  size: 115, 115
-  orig: 115, 115
+  xy: 512, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Quest
+UnitIcons/Cryptfiend
   rotate: false
-  xy: 1291, 1499
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Question
+UnitIcons/Death Knight
   rotate: false
-  xy: 1399, 1499
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Quickstart
+UnitIcons/Demolisher
   rotate: false
-  xy: 1507, 1499
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Remove Heresy
+UnitIcons/Destroyer
   rotate: false
-  xy: 859, 1391
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Resources
+UnitIcons/Dragonhawkrider
   rotate: false
-  xy: 1399, 1391
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Resume
+UnitIcons/Druid of the Claw
   rotate: false
-  xy: 1507, 1391
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Search
+
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Fortress
   rotate: false
-  xy: 1831, 1391
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/SecretOptions
+BuildingIcons/Graveyard
   rotate: false
-  xy: 1939, 1391
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Settings
+BuildingIcons/Great_Hall
   rotate: false
-  xy: 227, 1111
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Shield
+BuildingIcons/Gryphon_Aviary
   rotate: false
-  xy: 220, 895
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Sleep
+LeaderIcons/Gul'dan
   rotate: false
-  xy: 220, 571
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Speaker
+UnitIcons/Druid of the Talon
   rotate: false
-  xy: 220, 463
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Spy
+UnitIcons/Dryad
   rotate: false
-  xy: 220, 139
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Spy_White
+UnitIcons/Faerie Dragon
   rotate: false
-  xy: 220, 31
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Star
+UnitIcons/Flyingmachine
   rotate: false
-  xy: 335, 1103
-  size: 100, 94
-  orig: 100, 94
+  xy: 4, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Swap
+UnitIcons/Footman
   rotate: false
-  xy: 328, 779
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Timer
+UnitIcons/Frost Wyrm
   rotate: false
-  xy: 328, 563
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Triangle
+UnitIcons/Gargoyle
   rotate: false
-  xy: 4, 1357
-  size: 178, 178
-  orig: 178, 178
+  xy: 512, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Turn right
+UnitIcons/Ghoul
   rotate: false
-  xy: 328, 239
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Tyrannosaurus
+UnitIcons/Glaivethrower
   rotate: false
-  xy: 328, 131
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/WLTKD
+UnitIcons/Grunt
   rotate: false
-  xy: 436, 490
-  size: 83, 65
-  orig: 83, 65
+  xy: 1528, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Wait
+UnitIcons/Gryphonrider
   rotate: false
-  xy: 436, 995
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Wonders
+
+game4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Halls_of_the_Dead
   rotate: false
-  xy: 436, 563
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/whiteDot
+BuildingIcons/Haunted_Goldmine
   rotate: false
-  xy: 289, 1583
-  size: 1, 1
-  orig: 1, 1
+  xy: 4, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Aluminum
+BuildingIcons/HumBarracks
   rotate: false
-  xy: 4, 909
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Bananas
+BuildingIcons/HumBlacksmith
   rotate: false
-  xy: 4, 801
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Cattle
+BuildingIcons/HumFarm
   rotate: false
-  xy: 1384, 1931
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Citrus
+BuildingIcons/HumGuard_Tower
   rotate: false
-  xy: 1600, 1931
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Coal
+BuildingIcons/HumWorkshop
   rotate: false
-  xy: 190, 1435
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Copper
+BuildingIcons/Hunters_Hall
   rotate: false
-  xy: 190, 1327
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Cotton
+BuildingIcons/Keep-red
   rotate: false
-  xy: 298, 1484
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Crab
+BuildingIcons/Lumber_Mill
   rotate: false
-  xy: 298, 1376
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Deer
+LeaderIcons/Malfurion Stormrage
   rotate: false
-  xy: 112, 1003
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Dyes
+UnitIcons/Hippogryph
   rotate: false
-  xy: 112, 247
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Fish
+UnitIcons/Huntress
   rotate: false
-  xy: 535, 1685
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Furs
+UnitIcons/Knight
   rotate: false
-  xy: 751, 1715
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Gems
+UnitIcons/Kodobeast
   rotate: false
-  xy: 859, 1823
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Gold Ore
+UnitIcons/Meatwagon
   rotate: false
-  xy: 967, 1823
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Horses
+
+game5.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Moonwell
   rotate: false
-  xy: 1075, 1715
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Incense
+BuildingIcons/Necropolis
   rotate: false
-  xy: 1183, 1823
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Iron
+BuildingIcons/Nerubian_Tower
   rotate: false
-  xy: 1183, 1715
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Ivory
+BuildingIcons/Orc_Burrow
   rotate: false
-  xy: 1291, 1823
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Jewelry
+BuildingIcons/Sacrificialpit
   rotate: false
-  xy: 1291, 1715
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Marble
+BuildingIcons/Scout_Tower
   rotate: false
-  xy: 1831, 1715
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Oil
+UnitIcons/Mortarteam
   rotate: false
-  xy: 1723, 1607
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Pearls
+UnitIcons/Mountain Giant
   rotate: false
-  xy: 406, 1421
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Porcelain
+UnitIcons/Necromancer
   rotate: false
-  xy: 967, 1499
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Salt
+UnitIcons/Obsidian Statue
   rotate: false
-  xy: 1723, 1391
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Sheep
+UnitIcons/Paladin
   rotate: false
-  xy: 220, 1003
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Silk
+UnitIcons/Priest
   rotate: false
-  xy: 220, 787
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Silver
+UnitIcons/Raider
   rotate: false
-  xy: 220, 679
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Spices
+UnitIcons/Rifleman
   rotate: false
-  xy: 220, 247
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Stone
+UnitIcons/Shade
   rotate: false
-  xy: 328, 995
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Sugar
+UnitIcons/Shamans
   rotate: false
-  xy: 328, 887
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Truffles
+
+game6.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Slaughter_house
   rotate: false
-  xy: 328, 347
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Uranium
+BuildingIcons/Spirit_Lodge
   rotate: false
-  xy: 328, 23
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Whales
+BuildingIcons/Spirit_Tower
   rotate: false
-  xy: 436, 887
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Wheat
+BuildingIcons/Stronghold
   rotate: false
-  xy: 436, 779
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-ResourceIcons/Wine
+BuildingIcons/Tauren_Totem
   rotate: false
-  xy: 436, 671
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/Acquire
+BuildingIcons/Temple_of_the_damned
   rotate: false
-  xy: 4, 1017
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/CityConnection
+BuildingIcons/Tomb_of_Relics
   rotate: false
-  xy: 475, 1901
-  size: 130, 130
-  orig: 130, 130
+  xy: 1528, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/Culture
+BuildingIcons/Townhall-red
   rotate: false
-  xy: 427, 1745
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/Food
+BuildingIcons/Tree_of_ages
   rotate: false
-  xy: 643, 1700
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/Gold
+BuildingIcons/Tree_of_eternity
   rotate: false
-  xy: 859, 1715
-  size: 100, 100
-  orig: 100, 100
+  xy: 1528, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/Happiness
+LeaderIcons/Terenas Menethil II
   rotate: false
-  xy: 967, 1715
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/InterceptRange
+UnitIcons/Siegeengine
   rotate: false
-  xy: 527, 505
-  size: 50, 50
-  orig: 50, 50
+  xy: 4, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/Malcontent
+UnitIcons/Sorceress
   rotate: false
-  xy: 1723, 1823
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/Population
+UnitIcons/Spellbreaker
   rotate: false
-  xy: 859, 1499
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-TileIcons/Worked
+UnitIcons/Spiritwalker
   rotate: false
-  xy: 859, 1499
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/Range
+UnitIcons/Tauren
   rotate: false
-  xy: 544, 1029
-  size: 50, 50
-  orig: 50, 50
+  xy: 1020, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/RangedStrength
+
+game7.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Tree_of_life
   rotate: false
-  xy: 544, 971
-  size: 50, 50
-  orig: 50, 50
+  xy: 4, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/ReligiousStrength
+BuildingIcons/Voodoo_Lounge
   rotate: false
-  xy: 1831, 1499
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/Resistance
+BuildingIcons/War_Mill
   rotate: false
-  xy: 613, 1916
-  size: 115, 115
-  orig: 115, 115
+  xy: 512, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/Specialist
+BuildingIcons/Watch_Tower
   rotate: false
-  xy: 220, 355
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 4
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-StatIcons/Strength
+BuildingIcons/Ziggurat
   rotate: false
-  xy: 544, 855
-  size: 50, 50
-  orig: 50, 50
+  xy: 1528, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-TileIcons/Blockaded
+NationIcons/Alliance
   rotate: false
-  xy: 1168, 1931
+  xy: 512, 404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileIcons/Buy
+NationIcons/Horde
   rotate: false
-  xy: 4, 585
+  xy: 1020, 912
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileIcons/CityCenter
+NationIcons/Night Elfs
   rotate: false
-  xy: 4, 45
+  xy: 1528, 1420
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileIcons/Locked
+NationIcons/The Undead
   rotate: false
-  xy: 1615, 1823
+  xy: 512, 296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileIcons/MapOverlayToggleMovement
+Tilesets/HexaRealm/Tiles/City center
   rotate: false
-  xy: 552, 331
-  size: 50, 50
-  orig: 50, 50
+  xy: 620, 440
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
-TileIcons/MapOverlayToggleResources
+Tilesets/HexaRealm/Tiles/City center-First Stage
   rotate: false
-  xy: 552, 273
-  size: 50, 50
-  orig: 50, 50
+  xy: 620, 440
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
-TileIcons/MapOverlayToggleWorkedTiles
+Tilesets/HexaRealm/Tiles/City center-Second Stage
   rotate: false
-  xy: 552, 215
-  size: 50, 50
-  orig: 50, 50
+  xy: 1020, 840
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
-TileIcons/MapOverlayToggleYields
+Tilesets/HexaRealm/Tiles/City center-Third Stage
   rotate: false
-  xy: 552, 157
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-TileIcons/NotWorked
-  rotate: false
-  xy: 1399, 1607
-  size: 100, 100
-  orig: 100, 100
+  xy: 1128, 946
+  size: 64, 66
+  orig: 64, 66
   offset: 0, 0
   index: -1
-UniqueIcons/Fallback
+UnitIcons/Trollbatrider
   rotate: false
-  xy: 427, 1637
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-UnitTypeIcons/DomainAir
+UnitIcons/Trollheadhunter
   rotate: false
-  xy: 112, 571
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-UnitTypeIcons/DomainLand
+UnitIcons/Warden
   rotate: false
-  xy: 112, 463
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1528
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-OtherIcons/Terrains
+UnitIcons/Windrider
   rotate: false
-  xy: 112, 463
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 512
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
-UnitTypeIcons/DomainWater
+UnitIcons/Witchdoctor
   rotate: false
-  xy: 112, 355
-  size: 100, 100
-  orig: 100, 100
+  xy: 1020, 1020
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
