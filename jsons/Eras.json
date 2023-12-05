@@ -1,6 +1,6 @@
 [
 {
-        "name": "Стадия I",
+        "name": "First Stage",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1,
         "startingWorkerCount": 0,
@@ -14,7 +14,7 @@
         "iconRGB": [255, 87, 35]
     },
     {
-        "name": "Стадия II",
+        "name": "Second Stage",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1,
         "startingWorkerCount": 0,
@@ -28,7 +28,7 @@
         "iconRGB": [255, 87, 35]
     }, 
        {
-        "name": "Стадия III",
+        "name": "Third Stage",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1,
         "startingWorkerCount": 0,

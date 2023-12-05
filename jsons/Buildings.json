@@ -1,84 +1,84 @@
 [
-//Орда
+//Horde
 { 
-  "name": "Дом Вождей",
+  "name": "Great_Hall",
   "cost": 20,
-  "uniqueTo": "Орда",
+  "uniqueTo": "Horde",
   "isNationalWonder": true, 
   "production": 2, 
   "gold":3,
   "cost": 2, 
   "maintenance": 1, 
   "uniques": ["Indicates the capital city"] 
-  "requiredTech": "Первый уровень"
+  "requiredTech": "First level"
  },
 	{
-		"name": "Логово Орков",
+		"name": "Orc_Burrow",
 		"cost": 45,
-		"uniqueTo": "Орда",
+		"uniqueTo": "Horde",
 		"food": 2,
 		"maintenance": 1,
 		"uniques": ["[+1 Food] from [Desert] tiles [in this city]","Destroyed when the city is captured"]
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 	},
 	{
-		"name": "Казармы - Орда",
+		"name": "Barracks",
 		"cost": 50,
-		"uniqueTo": "Орда",
+		"uniqueTo": "Horde",
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 	},
 	{
-		"name": "Лесопилка - Орда",
+		"name": "War_Mill",
 		"cost": 50,
 		"production": 2,
-		"uniqueTo": "Орда",
+		"uniqueTo": "Horde",
 		"maintenance": 1,
 		"uniques": ["[+5]% Production when constructing [All] buildings [in this city]","Destroyed when the city is captured"]
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 		},
 		{
-		"name": "Сторожевая башня - Орда",
+		"name": "Watch_Tower",
 		"cost": 45,
 		"cityStrength": 15,
-		"uniqueTo": "Орда",
+		"uniqueTo": "Horde",
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredBuilding": "Лесопилка - Орда",
-		"requiredTech": "Первый уровень"
+		"requiredBuilding": "War_Mill",
+		"requiredTech": "First level"
 		}, 
 		{
-		"name": "Лавка знахаря",
-		"uniqueTo": "Орда",
+		"name": "Voodoo_Lounge",
+		"uniqueTo": "Horde",
 		"cost": 75,
 		"gold": 5,
 		"uniques": ["[+2 Science] per [1] population [in this city]", "Destroyed when the city is captured"]
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 	}, 
 	{
-		"name": "Обитель духов",
-		"uniqueTo": "Орда",
+		"name": "Spirit_Lodge",
+		"uniqueTo": "Horde",
 		"cost": 80,
 		"production": 3,
 		"gold": 3,
 		"cityStrength": 5,
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredBuilding": "Дворец Вождей",
-		"requiredTech": "Второй уровень"
+		"requiredBuilding": "Stronghold",
+		"requiredTech": "Second level"
 	},
 	{
-		"name": "Дворец Вождей",
-		"uniqueTo": "Орда",
+		"name": "Stronghold",
+		"uniqueTo": "Horde",
 		"cost": 120,
 		"cityStrength": 20,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Второй уровень"
+		"requiredTech": "Second level"
 	},
 	{
-        "name": "Зверинец",
-        "uniqueTo": "Орда",
+        "name": "Beastiary",
+        "uniqueTo": "Horde",
         "cost": 100,
         "food": 3,
         "happiness": 5,	
@@ -86,436 +86,436 @@
 	"maintenance": 3,
 	"uniques": ["Destroyed when the city is captured"]
 	"specialistSlots": {"Merchant": 1},
-        "requiredBuilding": "Обитель духов",
-	"requiredTech": "Второй уровень"
+        "requiredBuilding": "Spirit_Lodge",
+	"requiredTech": "Second level"
     },
     {
-		"name": "Тотем минотавра",
-		"uniqueTo": "Орда",
+		"name": "Tauren_Totem",
+		"uniqueTo": "Horde",
 		"cost": 170,
 		"maintenance": 1,
 		"uniques": ["[+20]% Strength bonus for [Military] units", "Destroyed when the city is captured"]
-		"requiredBuilding": "Крепость Вождей",
-		"requiredTech": "Третий уровень"
+		"requiredBuilding": "Fortress",
+		"requiredTech": "Third level"
 	},
 	{
-		"name": "Крепость Вождей",
-		"uniqueTo": "Орда",
+		"name": "Fortress",
+		"uniqueTo": "Horde",
 		"cost": 200,
 		"cityStrength": 30,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Третий уровень"
+		"requiredTech": "Third level"
 	},
 	{
-		"name": "Алтарь Бури",
-		"uniqueTo": "Орда",
+		"name": "Altarofstorms",
+		"uniqueTo": "Horde",
 		"cost": 230,
 		"uniques": ["[+30]% Strength <for [All] units> <vs cities> <when attacking>"],
-		"requiredTech": "Третий уровень",
-		"requiredBuilding": "Крепость Вождей",
+		"requiredTech": "Third level",
+		"requiredBuilding": "Fortress",
 	}, 
 	
-	//Альянс
+	//Alliance
 	
 	{ 
-  "name": "Ратуша",
+  "name": "Townhall-red",
   "cost": 20,
-  "uniqueTo": "Альянс",
+  "uniqueTo": "Alliance",
   "isNationalWonder": true, 
   "production": 2, 
   "gold":3,
   "cost": 2, 
   "maintenance": 1, 
   "uniques": ["Indicates the capital city"] 
-  "requiredTech": "Первый уровень"
+  "requiredTech": "First level"
  },
  {
-		"name": "Крепость",
-		"uniqueTo": "Альянс",
+		"name": "Keep-red",
+		"uniqueTo": "Alliance",
 		"cost": 100,
 		"cityStrength": 15,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Второй уровень"
+		"requiredTech": "Second level"
 	},
 	{
-		"name": "Замок",
-		"uniqueTo": "Альянс",
+		"name": "Castle-red",
+		"uniqueTo": "Alliance",
 		"cost": 200,
 		"cityStrength": 30,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Третий уровень"
+		"requiredTech": "Third level"
 	},
 	{
-		"name": "Казармы - Альянс",
+		"name": "HumBarracks",
 		"cost": 50,
-		"uniqueTo": "Альянс",
+		"uniqueTo": "Alliance",
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 	},
 	{
-        "name": "Ферма",
-        "uniqueTo": "Альянс",
+        "name": "HumFarm",
+        "uniqueTo": "Alliance",
         "cost": 50,
         "food": 2,
         "happiness": 2,	
-	"requiredTech": "Первый уровень"
+	"requiredTech": "First level"
     },
 		{
-		"name": "Алтарь Королей",
-		"uniqueTo": "Альянс",
+		"name": "Altar_of_Kings",
+		"uniqueTo": "Alliance",
 		"cost": 200,
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Barracks] in all cities", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
 			"Cost increases by [30] per owned city"],
-		"requiredTech": "Второй уровень"
+		"requiredTech": "Second level"
 	},
 	{
-		"name": "Лесопилка - Альянс",
+		"name": "Lumber_Mill",
 		"cost": 50,
 		"production": 2,
-		"uniqueTo": "Альянс",
+		"uniqueTo": "Alliance",
 		"maintenance": 1,
 		"uniques": ["[+5]% Production when constructing [All] buildings [in this city]","Destroyed when the city is captured"]
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 		},
 		{
-		"name": "Башня - Альянс",
+		"name": "Scout_Tower",
 		"cost": 45,
 		"cityStrength": 5,
-		"uniqueTo": "Альянс",
+		"uniqueTo": "Alliance",
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 		},
 		{
-		"name": "Сторожевая башня - Альянс",
+		"name": "HumGuard_Tower",
 		"cost": 70,
 		"cityStrength": 10,
-		"uniqueTo": "Альянс",
+		"uniqueTo": "Alliance",
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredBuilding": "Лесопилка - Альянс",
-		"requiredTech": "Первый уровень"
+		"requiredBuilding": "Lumber_Mill",
+		"requiredTech": "First level"
 		},
 		{
-		"name": "Орудийная башня - Альянс",
+		"name": "Cannon_Tower",
 		"cost": 90,
 		"cityStrength": 20,
-		"uniqueTo": "Альянс",
+		"uniqueTo": "Alliance",
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredBuilding": "Мастерская - Альянс",
-		"requiredTech": "Второй уровень"
+		"requiredBuilding": "HumWorkshop",
+		"requiredTech": "Second level"
 		},
 		{
-		"name": "Мастерская - Альянс",
+		"name": "HumWorkshop",
 		"cost": 85,
 		"production": 5,
-		"uniqueTo": "Альянс",
+		"uniqueTo": "Alliance",
 		"maintenance": 1,
 		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]","Destroyed when the city is captured"]
-		"requiredTech": "Второй уровень"
-		"requiredBuilding": "Кузница - Альянс",
+		"requiredTech": "Second level"
+		"requiredBuilding": "HumBlacksmith",
 		},
 		{
-		"name": "Кузница - Альянс",
+		"name": "HumBlacksmith",
 		"cost": 85,
 		"production": 2,
-		"uniqueTo": "Альянс",
+		"uniqueTo": "Alliance",
 		"maintenance": 1,
 		"uniques": ["[+5]% Production when constructing [All] buildings [in this city]","Destroyed when the city is captured"]
-		"requiredTech": "Второй уровень"
-		"requiredBuilding": "Крепость",
+		"requiredTech": "Second level"
+		"requiredBuilding": "Keep-red",
 		},
 		{
-		"name": "Магическая башня - Альянс",
+		"name": "Arcane_Tower",
 		"cost": 50,
 		"cityStrength": 5,
-		"uniqueTo": "Альянс",
+		"uniqueTo": "Alliance",
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredBuilding": "Мастерская - Альянс"
-		"requiredTech": "Второй уровень"
+		"requiredBuilding": "HumWorkshop"
+		"requiredTech": "Second level"
 		},
 		{
-		"name": "Храм истины",
-		"uniqueTo": "Альянс",
+		"name": "Arcane_Sanctum",
+		"uniqueTo": "Alliance",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[+2 Science] per [1] population [in this city]"],
-		"requiredTech": "Второй уровень"
-		"requiredBuilding": "Крепость"
+		"requiredTech": "Second level"
+		"requiredBuilding": "Keep-red"
 	},
 	{
-		"name": "Башня грифонов",
-		"uniqueTo": "Альянс",
+		"name": "Gryphon_Aviary",
+		"uniqueTo": "Alliance",
 		"cityStrength": 5,
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
-		"requiredTech": "Третий уровень",
+		"requiredTech": "Third level",
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredBuilding": "Замок"
+		"requiredBuilding": "Castle-red"
 	}, 
 	
 	//Нежить
 	
 	{ 
-  "name": "Некропыль",
+  "name": "Necropolis",
   "cost": 20,
-  "uniqueTo": "Плеть",
+  "uniqueTo": "The Undead",
   "isNationalWonder": true, 
   "production": 5, 
   "gold":3,
   "cost": 2, 
   "maintenance": 1, 
   "uniques": ["Indicates the capital city"] 
-  "requiredTech": "Первый уровень"
+  "requiredTech": "First level"
  },
  {
-		"name": "Чертог Мёртвых",
-		"uniqueTo": "Плеть",
+		"name": "Halls_of_the_Dead",
+		"uniqueTo": "The Undead",
 		"cost": 110,
 		"cityStrength": 15,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Второй уровень"
+		"requiredTech": "Second level"
 	},
 	{
-		"name": "Тёмная Цитадель",
-		"uniqueTo": "Плеть",
+		"name": "Black_Citadel",
+		"uniqueTo": "The Undead",
 		"cost": 200,
 		"cityStrength": 15,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Второй уровень"
+		"requiredTech": "Second level"
 	},
 	{
-		"name": "Склеп",
+		"name": "Crypt",
 		"cost": 75,
-		"uniqueTo": "Плеть",
+		"uniqueTo": "The Undead",
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 	},
 	{
-        "name": "Зикурат",
-        "uniqueTo": "Плеть",
+        "name": "Ziggurat",
+        "uniqueTo": "The Undead",
         "cost": 55,
         "food": 3,
         "uniques": ["Destroyed when the city is captured"],
-	"requiredTech": "Первый уровень"
+	"requiredTech": "First level"
     },
     {
-		"name": "Алтарь Тьмы",
+		"name": "Altar_of_darkness",
 		"cost": 75,
-		"uniqueTo": "Плеть",
+		"uniqueTo": "The Undead",
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [10] Experience [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 	},
 	{
-		"name": "Кладбище",
+		"name": "Graveyard",
 		"cost": 75,
 		"food": 3,
-		"uniqueTo": "Плеть",
+		"uniqueTo": "The Undead",
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [5] Experience [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 	},
 	{
-        "name": "Бойня",
-        "uniqueTo": "Плеть",
+        "name": "Slaughter_house",
+        "uniqueTo": "The Undead",
         "cost": 80,
         "food": 3,
         "happiness": 2,	
-        "requiredBuilding": "Кладбище",
+        "requiredBuilding": "Graveyard",
         "uniques": ["Destroyed when the city is captured"],
-	"requiredTech": "Второй уровень"
+	"requiredTech": "Second level"
     },
     {
-		"name": "Храм проклятых",
+		"name": "Temple_of_the_damned",
 		"maintenance": 1,
 		"cost": 90,
-		"uniqueTo": "Плеть",
+		"uniqueTo": "The Undead",
 		"uniques": ["[+2 Science] per [1] population [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Второй уровень",
-		 "requiredBuilding": "Кладбище"
+		"requiredTech": "Second level",
+		 "requiredBuilding": "Graveyard"
 	},
 	{
-        "name": "Жертвенник",
-        "uniqueTo": "Плеть",
+        "name": "Sacrificialpit",
+        "uniqueTo": "The Undead",
         "cost": 135,
         "food": 3,
         "happiness": 2,	
-        "requiredBuilding": "Чертог Мёртвых",
-	"requiredTech": "Второй уровень"
+        "requiredBuilding": "Halls_of_the_Dead",
+	"requiredTech": "Second level"
 	"uniques": ["Destroyed when the city is captured"],
     },
     {
-		"name": "Костяной завод",
-		"uniqueTo": "Плеть",
+		"name": "Boneyard",
+		"uniqueTo": "The Undead",
 		"cost": 150,
 		"production": 2,
 		"food": 2,
 		"maintenance": 1,
-		"requiredBuilding": "Тёмная Цитадель",
+		"requiredBuilding": "Black_Citadel",
 		"uniques": ["Must be next to [Snow]",
 			"[+2 Production] from [Snow] tiles [in this city]",
 			"[+2 Food] from [Snow] tiles [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Третий уровень"
+		"requiredTech": "Third level"
 	},
 	{
-		"name": "Древнее захоронение",
+		"name": "Tomb_of_Relics",
 		"cost": 150,
-		"uniqueTo": "Плеть",
+		"uniqueTo": "The Undead",
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [10] Experience [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Третий уровень"
+		"requiredTech": "Third level"
 	},
 	{
-		"name": "Башня Неруба",
+		"name": "Nerubian_Tower",
 		"cost": 100,
 		"cityStrength": 10,
-		"uniqueTo": "Плеть",
+		"uniqueTo": "The Undead",
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Второй уровень"
-		"requiredBuilding": "Кладбище"
+		"requiredTech": "Second level"
+		"requiredBuilding": "Graveyard"
 		},
 		{
-		"name": "Башня Духов",
+		"name": "Spirit_Tower",
 		"cost": 120,
 		"cityStrength": 15,
-		"uniqueTo": "Плеть",
+		"uniqueTo": "The Undead",
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Второй уровень"
-		"requiredBuilding": "Кладбище"
+		"requiredTech": "Second level"
+		"requiredBuilding": "Graveyard"
 		},
 		{
-        "name": "Проклятый Рудник",
-        "uniqueTo": "Плеть",
+        "name": "Haunted_Goldmine",
+        "uniqueTo": "The Undead",
         "cost": 55,
         "gold": 5,
         "uniques": ["Must be next to [Snow]",
 			"[+2 Gold] from [Snow] tiles [in this city]"],
-	"requiredTech": "Второй уровень"
+	"requiredTech": "Second level"
     },
     
-    ///Ночные Эльфы
+    ///Night Elfs
     
     { 
-  "name": "Древо Жизни",
+  "name": "Tree_of_life",
   "cost": 20,
-  "uniqueTo": "Ночные Эльфы",
+  "uniqueTo": "Night Elfs",
   "isNationalWonder": true, 
   "production": 5, 
   "gold":3,
   "cost": 2, 
   "maintenance": 1, 
   "uniques": ["Indicates the capital city"] 
-  "requiredTech": "Первый уровень"
+  "requiredTech": "First level"
  },
  {
-		"name": "Древо Долголетия",
-		"uniqueTo": "Ночнын Эльфы",
+		"name": "Tree_of_ages",
+		"uniqueTo": "Night Elfs",
 		"cost": 100,
 		"cityStrength": 15,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Второй уровень"
+		"requiredTech": "Second level"
 	},
 	{
-		"name": "Древо Вечности",
-		"uniqueTo": "Ночные Эльфы",
+		"name": "Tree_of_eternity",
+		"uniqueTo": "Night Elfs",
 		"cost": 200,
 		"cityStrength": 30,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Третий уровень"
+		"requiredTech": "Third level"
 	},
 	{
-		"name": "Древо Войны",
+		"name": "Ancient_of_war",
 		"cost": 75,
-		"uniqueTo": "Ночные Эльфы",
+		"uniqueTo": "Night Elfs",
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 	},
 	{
-		"name": "Древо Мудрости",
+		"name": "Ancient_of_lore",
 		"maintenance": 1,
 		"cost": 90,
-		"uniqueTo": "Ночные Эльфы",
+		"uniqueTo": "Night Elfs",
 		"uniques": ["[+3 Science] per [1] population [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Второй уровень",
-		 "requiredBuilding": "Охотничий Зал"
+		"requiredTech": "Second level",
+		 "requiredBuilding": "Hunters_Hall"
 	},
 	{
-		"name": "Древо Ветров",
+		"name": "Ancient_of_wind",
 		"maintenance": 1,
 		"cost": 90,
-		"uniqueTo": "Ночные Эльфы",
+		"uniqueTo": "Night Elfs",
 		"uniques": ["All newly-trained [non-[Air]] units [in this city] receive the [Ignore terrain cost] promotion"],
-		"requiredTech": "Второй уровень",
+		"requiredTech": "Second level",
 	},
 	{
-		"name": "Древо Чудес",
+		"name": "Ancient_of_wonder",
 		"maintenance": 1,
 		"cost": 90,
-		"uniqueTo": "Ночные Эльфы",
+		"uniqueTo": "Night Elfs",
 		"uniques": ["All newly-trained [Military] units [in this city] receive the [March] promotion"],
-		"requiredTech": "Первый уровень",
+		"requiredTech": "First level",
 	},
 	{
-        "name": "Лунный Колодец",
-        "uniqueTo": "Ночные Эльфы",
+        "name": "Moonwell",
+        "uniqueTo": "Night Elfs",
         "cost": 55,
         "food": 4,
         "uniques": ["Destroyed when the city is captured"],
-	"requiredTech": "Первый уровень"
+	"requiredTech": "First level"
     },
     {
-		"name": "Алтарь Старейших",
+		"name": "Altar_of_Elders",
 		"cost": 75,
-		"uniqueTo": "Ночные Эльфы",
+		"uniqueTo": "Night Elfs",
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [10] Experience [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Первый уровень"
+		"requiredTech": "First level"
 	},
 	{
-        "name": "Охотничий Зал",
-        "uniqueTo": "Ночные Эльфы",
+        "name": "Hunters_Hall",
+        "uniqueTo": "Night Elfs",
         "cost": 55,
         "food": 5,
         "gold": 5,
         "uniques": ["Destroyed when the city is captured"],
-	"requiredTech": "Третий уровень"
+	"requiredTech": "Third level"
     },
     {
-		"name": "Гнездо Химер",
+		"name": "Chimaera_Roost",
 		"cost": 75,
-		"uniqueTo": "Ночные Эльфы",
+		"uniqueTo": "Night Elfs",
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [5] Experience [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Третий уровень",
-		 "requiredBuilding": "Древо Вечности" 
+		"requiredTech": "Third level",
+		 "requiredBuilding": "Tree_of_eternity" 
 	},
 	{
-        "name": "Оплетёный Рудник",
-        "uniqueTo": "Ночные Эльфы",
+        "name": "Braided_Mine",
+        "uniqueTo": "Night Elfs",
         "cost": 55,
         "production": 5,
         "gold": 5,
         "uniques": ["Destroyed when the city is captured"],
-	"requiredTech": "Первый уровень"
+	"requiredTech": "First level"
     },
     {
-		"name": "Сторожевое Древо",
+		"name": "Ancientprotector_rooted",
 		"cost": 120,
 		"cityStrength": 10,
-		"uniqueTo": "Ночные Эльфы",
+		"uniqueTo": "Night Elfs",
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Третий уровень"
-		"requiredBuilding": "Охотничий Зал"
+		"requiredTech": "Third level"
+		"requiredBuilding": "Hunters_Hall"
 		},
 	]
 	
